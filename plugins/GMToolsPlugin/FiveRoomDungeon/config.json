@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "description": "Generates the outline for a Five Room Dungeon to be used in a tabletop roleplaying game (TTRPG).",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 1024,
+      "temperature": 0.5,
+      "top_p": 0.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    }
+  },
+  "input_variables": [
+    {
+      "name": "game_system",
+      "description": "The TTRPG game system for which the encounter will be designed.",
+      "default": "Dungeons and Dragons 5th Edition"
+    },
+    {
+      "name": "input_context",
+      "description": "Events, locations, NPCs, items and players to consider when designing the Five Room Dungeon.",
+      "default": ""
+    }
+  ]
+}

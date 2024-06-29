@@ -1,0 +1,73 @@
+Generate a {{$game_system}} statblock for the following NPC:
+
+```
+{{$npc_outline}}
+```
+
+The statblock should be of challenge rating: {{$npc_challenge_rating}}.
+
+EXAMPLE INPUT
+**Name**: Garrick the Cunning
+**Appearance**: A rugged human with a scar across his
+cheek, wearing patched leather armor and a red bandana.
+**Personality**: Shrewd and calculating,
+always looking for an advantage in any situation.
+**Role/Purpose**: Bandit captain leading the
+ambush; possesses a minor magical item that can temporarily disable the party&#39;s magic. Motivated
+by greed and a desire to prove his dominance.
+
+EXAMPLE OUTPUT
+## Garrick the Cunning
+
+**Medium humanoid (human), chaotic evil**
+
+**Armor Class** 15 (patched leather armor)  
+**Hit Points** 78 (12d8 + 24)  
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 11 (+0) | 16 (+3) 
+
+**Saving Throws** Dex +7, Cha +6  
+**Skills** Deception +6, Insight +3, Intimidation +6, Perception +3, Stealth +7  
+**Senses** Passive Perception 13  
+**Languages** Common  
+**Challenge** 5 (1,800 XP)
+
+---
+
+**Cunning Action.** Garrick can take a bonus action on each of his turns to take the Dash, Disengage, or Hide action.
+
+**Leadership (Recharges after a Short or Long Rest).** For 1 minute, Garrick can utter a special command or warning whenever a non-hostile creature that he can see within 30 feet of him makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand Garrick. A creature can benefit from only one Leadership die at a time. This effect ends if Garrick is incapacitated.
+
+**Evasion.** If Garrick is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails.
+
+**Magic Disruptor (Recharge 5-6).** Garrick possesses a minor magical item that can temporarily disable magic within a 30-foot radius for 1 minute. Each creature within the area must succeed on a DC 14 Wisdom saving throw or be unable to cast spells until the effect ends.
+
+---
+
+### Actions
+
+**Multiattack.** Garrick makes two melee attacks.
+
+**Shortsword.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 4) piercing damage.
+
+**Dagger.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (1d4 + 4) piercing damage.
+
+**Leadership (Recharges after a Short or Long Rest).** For 1 minute, Garrick can utter a special command or warning whenever a non-hostile creature that he can see within 30 feet of him makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand Garrick. A creature can benefit from only one Leadership die at a time. This effect ends if Garrick is incapacitated.
+
+### Reactions
+
+**Parry.** Garrick adds 2 to his AC against one melee attack that would hit him. To do so, Garrick must see the attacker and be wielding a melee weapon.
+
+---
+
+### Roleplaying
+
+**Appearance.** A rugged human with a scar across his cheek, wearing patched leather armor and a red bandana.
+
+**Personality.** Shrewd and calculating, always looking for an advantage in any situation.
+
+**Role/Purpose.** Bandit captain leading the ambush; possesses a minor magical item that can temporarily disable the party&#39;s magic. Motivated
+by greed and a desire to prove his dominance.

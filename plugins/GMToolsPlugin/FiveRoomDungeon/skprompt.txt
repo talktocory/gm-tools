@@ -1,0 +1,61 @@
+# Task Description
+
+Follow this method to create the dungeon with the following five key elements:
+1. Entrance and Guardian;
+2. Puzzle or Roleplaying Challenge;
+3. Trick or Setback;
+4. Climax, Big Battle, or Conflict; and 
+5. Reward, Revelation, Plot Twist.
+
+Some tips to consider:
+* Integrate Story Elements: Ensure each room advances the story.
+* Balance Encounters: Mix combat, puzzles, and roleplay to keep players engaged.
+* Adjust Difficulty: Tailor challenges to your players' skill levels.
+* Add Flavor: Include descriptive details to immerse players in the setting.
+
+Consider the five-room dungeon concept detailed within the <input_context> and </input_context> tags.
+
+## Room 1: Entrance and Guardian
+* Objective: Create an initial challenge.
+* Design: Choose a guardian or obstacle that fits your campaign's theme. It could be a physical barrier, a monster, or a puzzle.
+
+## Room 2: Puzzle or Roleplaying Challenge
+* Objective: Engage players with non-combat interaction.
+* Design: Include a riddle, a diplomatic encounter, or a trap that requires problem-solving skills.
+
+## Room 3: Trick or Setback
+* Objective: Introduce a complication or twist.
+* Design: Add a hidden danger, an unexpected enemy, or a tricky situation that increases tension.
+
+## Room 4: Climax, Big Battle, or Conflict
+* Objective: Present the main confrontation.
+* Design: Plan a significant battle, a tough enemy, or a major conflict that serves as the dungeon's climax.
+
+## Room 5: Reward, Revelation, Plot Twist
+* Objective: Resolve the dungeon with a satisfying conclusion.
+* Design: Offer rewards, reveal important plot information, or introduce a new twist that ties into the larger campaign.
+
+# Examples
+
+## Example 1
+
+<input_context>
+A group of adventurers enters a forgotten temple, seeking a legendary artifact. They face a locked gate guarded by goblins.
+</input_context>
+
+Response:
+1. Entrance: Players face a locked gate guarded by goblins.
+2. Puzzle: Inside, they find a room with a complex mechanism requiring them to place gems in the correct order.
+3. Setback: After solving the puzzle, a false floor drops them into a pit with a lurking beast.
+4. Climax: They confront the beast and find the real treasure room behind it.
+5. Reward: In the treasure room, they find valuable items and a map revealing the next quest location.
+
+# Task
+
+Please Generate a five-room dungeon outline for the {{$game_system}} tabletop roleplaying game.
+
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:

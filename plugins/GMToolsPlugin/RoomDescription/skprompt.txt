@@ -1,0 +1,56 @@
+# Task Description
+
+Given the five-room dungeon described between the <input_context> and </input_context> tags
+and the room number described between the <room_number> and </room_number> tags,
+create a narrative description for that can be read to the players
+to set the scene and provide a sense of the room's atmosphere and contents.
+
+Some tips to consider:
+* Engage the Senses: Describe sights, sounds, smells, and textures to immerse players.
+* Set the Mood: Use descriptive language to convey the room's ambiance and tone.
+* Include Interactive Elements: Mention objects or features that players can interact with.
+* Foreshadow: Hint at future challenges or rewards to build anticipation.
+
+# Examples
+
+<room_number>1</room_number>
+<input_context>
+## Five-Room Dungeon Outline
+
+### Step 1: Entrance and Guardian
+* **Objective:** Create an initial challenge.
+* **Design:** The entrance to the bandit camp is heavily guarded by two bandit sentries and a trained wolf. The sentries are alert and have a clear line of sight to the forest path leading to the camp. The players must either sneak past, create a distraction, or engage in combat to get through.
+
+### Step 2: Puzzle or Roleplaying Challenge
+* **Objective:** Engage players with non-combat interaction.
+* **Design:** After passing the sentries, the players come across a makeshift barricade with a locked gate. Nearby, they find a captured bandit who offers to help them unlock the gate in exchange for his freedom. The players must decide whether to trust him and engage in a roleplaying encounter to gather information or find another way to bypass the gate, such as picking the lock or finding a hidden path.
+
+### Step 3: Trick or Setback
+* **Objective:** Introduce a complication or twist.
+* **Design:** Once past the gate, the players enter a seemingly empty clearing. However, it is a trap set by the bandits. Hidden snares and tripwires are scattered throughout the area. If triggered, these traps alert a group of bandits hiding in the trees, who then ambush the party. The players must navigate the traps carefully or deal with the ambush.
+
+### Step 4: Climax, Big Battle, or Conflict
+* **Objective:** Present the main confrontation.
+* **Design:** The players finally reach the bandit leader&#39;s tent, where the magical artifact is kept. The bandit leader is a seasoned warrior with a few elite guards. This is the main battle of the dungeon, requiring strategic combat and teamwork. The bandit leader uses the artifact&#39;s power to enhance his abilities, making the fight more challenging.
+
+### Step 5: Reward, Revelation, Plot Twist
+* **Objective:** Resolve the dungeon with a satisfying conclusion.
+* **Design:** After defeating the bandit leader, the players retrieve the magical artifact. In the leader&#39;s tent, they also find a map and a series of letters revealing that the bandits were hired by a mysterious benefactor. This revelation ties into the larger campaign, hinting at a greater threat and setting up future adventures. Additionally, the players find valuable loot and supplies as a reward for their efforts.
+</input_context>
+
+Response:
+
+```
+Two bandit sentries stand guard, their eyes sharp and alert, scanning the forest with practiced vigilance. They are clad in mismatched armor, a testament to their rough and tumble lifestyle, and each grips a weapon with a sense of readiness. One of the sentries, a burly man with a thick beard, leans casually against the watchtower, but his eyes betray his alertness. The other, a wiry figure with a scar running down his cheek, paces back and forth, his gaze never lingering in one place for too long.
+
+Beside them, a large, menacing wolf sits on its haunches, its ears perked and nose twitching as it sniffs the air. The wolf&#39;s fur is a mottled gray, blending seamlessly with the shadows of the forest, and its eyes gleam with a predatory intelligence. A low growl rumbles from its throat, a clear warning to any who might dare approach.
+```
+
+# Task
+<room_number>{{$room_number}}</room_number>
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
+

@@ -1,0 +1,25 @@
+Generate a list of key NPCS (allies, foes, and monsters) for the following encounter outline:
+
+```
+{{$encounter_outline}}
+```
+
+You may generate as many NPCs as you like, but please provide at least three.
+
+Please use the  "Three Line NPC" format for each NPC.  This format includes the following:
+
+**Name**: The character's name or title.
+**Appearance**: A brief description of the character's physical appearance and notable features.
+**Personality**: A quick overview of the character's demeanor, attitude, and behavioral traits.
+**Role/Purpose**: The character's function within the story or game, including any relevant background information or motivation.
+xxxXXXOOOXXXxxx
+
+Here’s an example:
+
+**Name**: Elara Moonshadow
+**Appearance**: Tall, lean elf with silver hair and piercing blue eyes, often wearing a dark green cloak.
+**Personality**: Mysterious and aloof, speaks in riddles and rarely shows emotion.
+**Role/Purpose**: Guardian of the ancient forest, seeking to protect its secrets from intruders.
+xxxXXXOOOXXXxxx
+
+
