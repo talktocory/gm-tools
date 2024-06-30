@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "description": "Generates a list of Non-Player Characters (NPCs) for a Tabletop Roleplaying Game (TTRPG) encounter outline.  The token `xxxXXXOOOXXXxxx` will be used to separate each NPC. ",
+  "description": "Generates a list of Non-Player Characters (NPCs) for a specified five-room dungeon outline.",
   "execution_settings": {
     "default": {
       "max_tokens": 2000,
@@ -12,13 +12,8 @@
   },
   "input_variables": [
     {
-      "name": "game_system",
-      "description": "The TTRPG game system for which the encounter is designed.",
-      "default": "Dungeons and Dragons 5th Edition"
-    },
-    {
-      "name": "encounter_outline",
-      "description": "A one paragraph outline of the encounter for which NPCs will be generated.",
+      "name": "input_context",
+      "description": "A a five-room dungeon outline for which NPCs will be generated.",
       "default": ""
     }
   ]

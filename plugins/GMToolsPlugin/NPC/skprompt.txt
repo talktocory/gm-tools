@@ -1,25 +1,70 @@
-Generate a list of key NPCS (allies, foes, and monsters) for the following encounter outline:
+# Task Description
 
-```
-{{$encounter_outline}}
-```
+Given the five-room dungeon described between the <input_context> and </input_context> tags,
+create at least three NPCS (allies, foes, and monsters).
+These NPCs should be key to the encounter and should be described in the "Three Line NPC" format.
 
-You may generate as many NPCs as you like, but please provide at least three.
+## Things to Consider
+* Diverse Roles: Include NPCs with different functions and motivations.
+* Memorable Traits: Give each NPC distinct characteristics to make them memorable.
+* Relevance to the Story: Ensure that each NPC serves a purpose in the encounter or dungeon.
+* Interaction Potential: Design NPCs that can engage with players through dialogue, combat, or other interactions.
 
+## Response Formatting
 Please use the  "Three Line NPC" format for each NPC.  This format includes the following:
 
 **Name**: The character's name or title.
 **Appearance**: A brief description of the character's physical appearance and notable features.
 **Personality**: A quick overview of the character's demeanor, attitude, and behavioral traits.
 **Role/Purpose**: The character's function within the story or game, including any relevant background information or motivation.
-xxxXXXOOOXXXxxx
 
-Here’s an example:
+# Examples
+Generate a list of key NPCS (allies, foes, and monsters) for the following five-room dungeon outline:
 
-**Name**: Elara Moonshadow
-**Appearance**: Tall, lean elf with silver hair and piercing blue eyes, often wearing a dark green cloak.
-**Personality**: Mysterious and aloof, speaks in riddles and rarely shows emotion.
-**Role/Purpose**: Guardian of the ancient forest, seeking to protect its secrets from intruders.
-xxxXXXOOOXXXxxx
+<input_context>
+## Five-Room Dungeon Outline
 
+### Step 1: Entrance and Guardian
+* **Objective:** Create an initial challenge.
+* **Design:** The entrance to the bandit camp is heavily guarded by two bandit sentries and a trained wolf. The sentries are alert and have a clear line of sight to the forest path leading to the camp. The players must either sneak past, create a distraction, or engage in combat to get through.
 
+### Step 2: Puzzle or Roleplaying Challenge
+* **Objective:** Engage players with non-combat interaction.
+* **Design:** After passing the sentries, the players come across a makeshift barricade with a locked gate. Nearby, they find a captured bandit who offers to help them unlock the gate in exchange for his freedom. The players must decide whether to trust him and engage in a roleplaying encounter to gather information or find another way to bypass the gate, such as picking the lock or finding a hidden path.
+
+### Step 3: Trick or Setback
+* **Objective:** Introduce a complication or twist.
+* **Design:** Once past the gate, the players enter a seemingly empty clearing. However, it is a trap set by the bandits. Hidden snares and tripwires are scattered throughout the area. If triggered, these traps alert a group of bandits hiding in the trees, who then ambush the party. The players must navigate the traps carefully or deal with the ambush.
+
+### Step 4: Climax, Big Battle, or Conflict
+* **Objective:** Present the main confrontation.
+* **Design:** The players finally reach the bandit leader&#39;s tent, where the magical artifact is kept. The bandit leader is a seasoned warrior with a few elite guards. This is the main battle of the dungeon, requiring strategic combat and teamwork. The bandit leader uses the artifact&#39;s power to enhance his abilities, making the fight more challenging.
+
+### Step 5: Reward, Revelation, Plot Twist
+* **Objective:** Resolve the dungeon with a satisfying conclusion.
+* **Design:** After defeating the bandit leader, the players retrieve the magical artifact. In the leader&#39;s tent, they also find a map and a series of letters revealing that the bandits were hired by a mysterious benefactor. This revelation ties into the larger campaign, hinting at a greater threat and setting up future adventures. Additionally, the players find valuable loot and supplies as a reward for their efforts.
+</input_context>
+
+Response
+
+**Name**: Garin the Sentry
+**Appearance**: A burly man with a scar across his left cheek, wearing a mix of leather and chain armor, with a wolf pelt draped over his shoulders.
+**Personality**: Gruff and no-nonsense, Garin is fiercely loyal to the bandit leader and takes his job seriously. He is always on high alert and suspicious of strangers.
+**Role/Purpose**: Guardian at the entrance, Garin is one of the initial challenges the players must overcome. His alertness makes it difficult to sneak past him, and his loyalty ensures he will fight to protect the camp.
+
+**Name**: Lydia the Captive
+**Appearance**: A young woman with tangled, auburn hair and piercing green eyes, wearing tattered clothing and sporting bruises from her captivity.
+**Personality**: Clever and resourceful, Lydia is wary of trusting anyone but willing to negotiate if it means securing her freedom. She has a quick wit and a sharp tongue.
+**Role/Purpose**: Captured bandit found near the locked gate, Lydia offers to help the players unlock the gate in exchange for her freedom. She provides critical information about the camp and the traps ahead, should the players choose to trust her.
+
+**Name**: Varg the Ambusher
+**Appearance**: A lanky man with dark, unkempt hair and a sly grin, dressed in dark, camouflaged clothing to blend into the forest.
+**Personality**: Cunning and sadistic, Varg enjoys setting traps and watching his victims suffer. He is patient and calculating, always planning his next move.
+**Role/Purpose**: Leader of the bandits hiding in the trees during the ambush, Varg coordinates the attack when the traps are triggered. He adds a layer of danger and complexity to the clearing, forcing players to be cautious and strategic.
+
+# Task
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
