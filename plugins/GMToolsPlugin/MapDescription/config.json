@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "description": "Creates descriptive text for each room in a Five Room Dungeon outline.",
+  "description": "Creates the description of the TTRPG map required to accompany the Five Room Dungeon outline.",
   "execution_settings": {
     "default": {
       "max_tokens": 1024,
@@ -11,11 +11,6 @@
     }
   },
   "input_variables": [
-    {
-      "name": "room_number",
-      "description": "The room number of the five-room dungeon for which descriptive text should be generated.",
-      "default": ""
-    },
     {
       "name": "input_context",
       "description": "A five room dungeon outline that includes the following rooms: Room #1: Entrance, Room #2: Puzzle or Roleplaying Challenge, Room #3: Trick or Setback, Room #4: Climax, and Room #5: Reward or Revelation.",
