@@ -1,0 +1,21 @@
+# Task Description
+
+Given the five-room dungeon described between the <input_context> and </input_context> tags,
+please create a loot rolltable for the dungeon.
+
+Some tips to consider:
+* The items on the rolltable should relate to the dungeon and be a mix of mundane and magic items.  
+* Format the results in a table with these columns:
+  * D20 Roll: the D20 roll used to determine which item has been found
+  * Item Name: The name of the item.
+  * Low Value: Description of a low value version of the item.
+  * Medium Value: Description of a medium value version of the item.
+  * High Value: Description of a high value version of the item.
+
+# Task
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
+
