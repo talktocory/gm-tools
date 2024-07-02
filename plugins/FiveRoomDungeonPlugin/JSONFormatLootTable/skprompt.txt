@@ -1,0 +1,56 @@
+# Task Description
+
+Given the five-room dungeon described between the <input_context> and </input_context> tags,
+please format the data using the JSON schema defined between the <schema> and </schema> tags.
+
+<schema>
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Loot Table Schema",
+  "type": "object",
+  "properties": {
+    "rolltable": {
+      "type": "object",
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "roll": {
+                "type": "integer"
+              },
+              "item": {
+                "type": "string"
+              },
+              "description_basic": {
+                "type": "string"
+              },
+              "description_intermediate": {
+                "type": "string"
+              },
+              "description_advanced": {
+                "type": "string"
+              }
+            },
+            "required": ["roll", "item", "description_basic", "description_intermediate", "description_advanced"]
+          }
+        }
+      },
+      "required": ["description", "entries"]
+    }
+  },
+  "required": ["rolltable"]
+}
+</schema>
+
+# Task
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
+

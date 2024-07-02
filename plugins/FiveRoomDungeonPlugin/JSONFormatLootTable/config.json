@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "description": "Formats a loot table into JSON format..",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 4096,
+      "temperature": 0.5,
+      "top_p": 0.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    }
+  },
+  "input_variables": [
+    {
+      "name": "input_context",
+      "description": "A loot table that includes a description and a list of items with their descriptions.",
+      "default": ""
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-Generate a single paragraph outline for a random tabletop roleplaying game encounter.
-The outline should be contrained to a single paragraph and consider the following background information:
-
-```
-{{$encounter_background}}
-```

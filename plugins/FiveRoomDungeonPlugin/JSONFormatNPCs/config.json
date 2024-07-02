@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "description": "Generates a loot rolltable to accompany the Five Room Dungeon outline.",
+  "description": "Formats a list of NPCs into JSON format..",
   "execution_settings": {
     "default": {
-      "max_tokens": 2048,
+      "max_tokens": 4096,
       "temperature": 0.5,
       "top_p": 0.0,
       "presence_penalty": 0.0,
