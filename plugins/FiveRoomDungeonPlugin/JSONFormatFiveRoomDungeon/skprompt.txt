@@ -29,27 +29,34 @@ please format the data using the JSON schema defined between the <schema> and </
           "title": {
             "type": "string"
           },
-          "gm_description": {
-            "type": "string"
-          },
-          "player_description": {
-            "type": "string"
-          },
           "objective": {
             "type": "string"
           },
           "design": {
             "type": "string"
           },
-          "challenge": {
+          "description": {
             "type": "string"
           }
         },
-        "required": ["room_number", "title", "gm_description", "player_description", "objective", "design", "challenge"]
+        "required": [
+          "room_number",
+          "title",
+          "gm_description",
+          "player_description",
+          "objective",
+          "design",
+          "challenge"
+        ]
       }
     }
   },
-  "required": ["title", "introduction", "plot_twist", "rooms"]
+  "required": [
+    "title",
+    "introduction",
+    "plot_twist",
+    "rooms"
+  ]
 }
 </schema>
 
