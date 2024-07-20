@@ -1,7 +1,4 @@
 Please generate a five-room dungeon concept based on the following details:
-* The five-room dungeon should be suitable for Dungeons and Dragons 5th edition.
-* The five-room dungeon should be suitable for five level 3 players.
-* The five-room dungone should be of medium difficulty.
 * The five-room dungeon will take place in the town of Hammersend.
 * The party must deal with a powerful cult that has taken control of the town of Hammersend.
 * The cult is comprised of acolytes and clerics who worship ancient sea witches.

@@ -1,0 +1,59 @@
+# Task Description
+
+Designing a new location for a tabletop role-playing game (TTRPG) involves several creative and practical steps. Here’s a guide to help you through the process:
+
+### 1. Define the Purpose of the Location
+- **Role in the Story**: Determine how this location fits into your campaign's narrative. Is it a major city, a hidden village, a dangerous dungeon, or a mystical forest?
+- **Player Interaction**: Think about what your players will do here. Is it a place for combat, role-playing, exploration, or a mix?
+
+### 2. Develop the Location's Concept
+- **Theme and Mood**: Decide on the overall theme (e.g., dark and eerie, bustling and vibrant) and the mood (e.g., mysterious, joyful).
+- **Visual and Cultural Aesthetics**: Think about the architectural style, local customs, fashion, and everyday life.
+
+### 3. Establish the Geography and Layout
+- **Map Creation**: Draw a map of the location, including important landmarks, roads, and districts.
+- **Key Areas**: Identify and detail significant places within the location, such as inns, shops, government buildings, and secret hideouts.
+
+### 4. Populate the Location
+- **NPCs (Non-Player Characters)**: Create interesting and diverse characters who inhabit the location. Consider their roles, personalities, and motivations.
+- **Factions and Organizations**: Develop any local factions, guilds, or organizations that may play a role in the story.
+
+### 5. Add Historical and Cultural Depth
+- **History**: Develop a backstory for the location. What major events have shaped it?
+- **Culture**: Flesh out cultural aspects like festivals, traditions, local cuisine, and languages or dialects.
+
+### 6. Integrate Challenges and Opportunities
+- **Quests and Adventures**: Create potential quests or story hooks tied to the location. What problems need solving? What secrets are waiting to be uncovered?
+- **Environmental Hazards**: Consider any natural or magical dangers present in the area.
+
+### 7. Detail Practical Aspects
+- **Economy and Resources**: Think about the local economy. What are the main sources of income? Are there any unique resources?
+- **Law and Order**: Establish the legal system and how laws are enforced. Is there a ruling body or influential figure?
+
+### 8. Connect to the Wider World
+- **Relationships with Other Locations**: Define how this location interacts with neighboring areas. Are there alliances, rivalries, or trade relationships?
+- **Travel and Accessibility**: Determine how characters can travel to and from this location. Are there well-traveled roads, secret paths, or magical portals?
+
+### 9. Prepare for Player Engagement
+- **Descriptive Elements**: Write vivid descriptions to help bring the location to life for your players.
+- **Dynamic Events**: Plan dynamic events that can occur while players are in the location, such as festivals, conflicts, or sudden changes in weather.
+
+### 10. Flexibility and Adaptation
+- **Player Influence**: Be ready to adapt the location based on player actions and decisions. Allow the location to evolve with the story.
+- **Improvisation**: Prepare to improvise details and encounters based on player interactions and unexpected choices.
+
+### Resources
+- **Inspiration**: Draw inspiration from real-world places, historical periods, and other fictional works.
+- **Tools**: Utilize tools like map generators, world-building guides, and character creators to assist in the design process.
+
+By following these steps, you'll be able to create a rich and immersive location that enhances your TTRPG campaign and engages your players.
+
+# Task
+
+Please generate a location suitable for a {{$game_system}} tabletop roleplaying game based on the following input context:
+
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
