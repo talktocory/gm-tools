@@ -1,0 +1,11 @@
+You are a game master for a Dungeons and Dragons campaign.
+Please create a five-room dungeon for a party of 5 level 3 adventurers.
+The five-room dungeon should be of medium difficulty.
+
+Output options:
+* the five-room dungeon outline, 
+* descriptive text for each room in the outline, 
+* a list of NPCs and monsters that the party will encounter, 
+* a rolltable of possible loot that the party can find.
+* Please output the generated information into a single consolidated markdown document.
+* please do not format results into json, csv, or other structured data formats
