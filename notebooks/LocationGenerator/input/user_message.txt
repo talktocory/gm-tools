@@ -1,7 +1,7 @@
-Please generate a five-room dungeon concept based on the following details:
-* The five-room dungeon will take place in the town of Hammersend.
-* The party must deal with a powerful cult that has taken control of the town of Hammersend.
-* The cult is comprised of acolytes and clerics who worship ancient sea witches.
-* The cult has formed a partnership with one of the player's brothers, who has been corrupted by the cult's influence.
-* The party must infiltrate the cult's evil lair, an abandoned lighthouse.
-* The cult will summon a tentacle monster to destroy the party and the town if they are not stopped.
+Please generate a location based on the following information:
+* The town of Hammersend is a port town on the coast of a sub-tropical island
+* A secretive cult of Sea Witch worshippers is at work amassing power in the town.
+* The town has both public and private docs.
+* Many of the establishments in the town are under control of the secretive cult.
+* One of the party members, Lancelot, is related to the duke of the region, Charles.
+* Charles has usurped the dukedom from his father Bruce and is working in league with the cultists.
