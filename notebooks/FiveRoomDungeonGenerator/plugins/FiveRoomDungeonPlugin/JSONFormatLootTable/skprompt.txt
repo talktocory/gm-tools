@@ -2,6 +2,7 @@
 
 Given the five-room dungeon described between the <input_context> and </input_context> tags,
 please format the data using the JSON schema defined between the <schema> and </schema> tags.
+Where information is missing, please generate something appropriate.
 
 <schema>
 {

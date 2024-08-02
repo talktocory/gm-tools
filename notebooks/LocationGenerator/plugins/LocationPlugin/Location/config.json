@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "description": "Generates the outline for a Five Room Dungeon to be used in a tabletop roleplaying game (TTRPG).",
+  "description": "Generates a detailed location that can be used in a tabletop roleplaying game (TTRPG).",
   "execution_settings": {
     "default": {
       "max_tokens": 8192,
@@ -13,12 +13,12 @@
   "input_variables": [
     {
       "name": "game_system",
-      "description": "The TTRPG game system for which the Five Room Dungeon will be designed.",
+      "description": "The TTRPG game system for which the location will be designed.",
       "default": "Dungeons and Dragons 5th Edition"
     },
     {
       "name": "input_context",
-      "description": "Events, locations, NPCs, items and players to consider when designing the Five Room Dungeon.",
+      "description": "Events, Locations, NPCs, items and players to consider when designing the location.",
       "default": ""
     }
   ]

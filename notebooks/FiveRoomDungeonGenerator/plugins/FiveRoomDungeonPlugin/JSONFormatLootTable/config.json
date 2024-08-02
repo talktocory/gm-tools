@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "description": "Formats a loot table into JSON format..",
+  "description": "Formats a loot table into JSON format.",
   "execution_settings": {
     "default": {
-      "max_tokens": 4096,
+      "max_tokens": 16384,
       "temperature": 0.5,
       "top_p": 0.0,
       "presence_penalty": 0.0,
