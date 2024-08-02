@@ -5,7 +5,7 @@ A collection of tabletop roleplaying game (TTRPG) tools implemented using Polygl
 
 The following tools are provided by this project.
 
-## [Five-Room Dungeon Generator](notebooks/five-room-dungeon-generator.ipynb)
+## [Five-Room Dungeon Generator](notebooks/FiveRoomDungeonGenerator/five-room-dungeon-generator.ipynb)
 This Polyglot notebook provides a tool to generate five-room dungeons for tabletop role-playing games (TTRPGs). The concept of a five-room dungeon is a popular framework in TTRPG design, offering a simple yet flexible structure that can be used to create engaging and varied dungeon crawls.
 
 ## Getting Started

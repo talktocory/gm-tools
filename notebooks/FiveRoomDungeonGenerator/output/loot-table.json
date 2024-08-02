@@ -1,0 +1,147 @@
+{
+  "rolltable": {
+    "description": "Loot table for the Abandoned Lighthouse of Hammersend.",
+    "entries": [
+      {
+        "roll": 1,
+        "item": "Sea Glass Trinket",
+        "description_basic": "A small piece of smooth sea glass",
+        "description_intermediate": "A necklace made of several pieces of sea glass",
+        "description_advanced": "A beautifully crafted pendant with magical properties"
+      },
+      {
+        "roll": 2,
+        "item": "Fisherman's Net",
+        "description_basic": "A frayed and worn fishing net",
+        "description_intermediate": "A sturdy net with catches still tangled in it",
+        "description_advanced": "A magically enhanced net that can ensnare creatures"
+      },
+      {
+        "roll": 3,
+        "item": "Coral Dagger",
+        "description_basic": "A simple dagger with a coral handle",
+        "description_intermediate": "A well-balanced dagger with coral inlays",
+        "description_advanced": "A magical dagger that deals extra damage to aquatic foes"
+      },
+      {
+        "roll": 4,
+        "item": "Potion of Water Breathing",
+        "description_basic": "A basic potion for short underwater breathing",
+        "description_intermediate": "A potion that lasts for an hour",
+        "description_advanced": "A potion that grants the ability to breathe underwater indefinitely"
+      },
+      {
+        "roll": 5,
+        "item": "Shell of Echoes",
+        "description_basic": "A small conch shell that makes faint sounds",
+        "description_intermediate": "A larger shell that can amplify sounds",
+        "description_advanced": "A magical shell that can cast a spell of communication"
+      },
+      {
+        "roll": 6,
+        "item": "Lantern of the Deep",
+        "description_basic": "A simple oil lantern that flickers",
+        "description_intermediate": "A well-made lantern that burns brightly",
+        "description_advanced": "A magical lantern that reveals hidden paths in the dark"
+      },
+      {
+        "roll": 7,
+        "item": "Sea Witch's Grimoire",
+        "description_basic": "A tattered book of spells with faded ink",
+        "description_intermediate": "A well-preserved book with several spells",
+        "description_advanced": "A powerful grimoire containing rare and forbidden spells"
+      },
+      {
+        "roll": 8,
+        "item": "Driftwood Staff",
+        "description_basic": "A plain staff made from driftwood",
+        "description_intermediate": "A staff with intricate carvings and a smooth finish",
+        "description_advanced": "A magical staff that can control water and waves"
+      },
+      {
+        "roll": 9,
+        "item": "Tidal Wave Amulet",
+        "description_basic": "A simple amulet with a wave design",
+        "description_intermediate": "An amulet that grants resistance to cold damage",
+        "description_advanced": "A powerful amulet that can summon a tidal wave once per day"
+      },
+      {
+        "roll": 10,
+        "item": "Mermaid's Tear",
+        "description_basic": "A single tear-shaped gem with a faint glow",
+        "description_intermediate": "A small pouch containing several mermaid tears",
+        "description_advanced": "A legendary gem that can grant wishes related to the sea"
+      },
+      {
+        "roll": 11,
+        "item": "Salted Fish",
+        "description_basic": "A small, preserved fish",
+        "description_intermediate": "A larger, well-seasoned fish",
+        "description_advanced": "A rare fish that can be used in powerful potions"
+      },
+      {
+        "roll": 12,
+        "item": "Fisherman's Boots",
+        "description_basic": "A pair of old, worn boots",
+        "description_intermediate": "Sturdy boots that provide good grip on wet surfaces",
+        "description_advanced": "Magical boots that allow for swift movement on water"
+      },
+      {
+        "roll": 13,
+        "item": "Cursed Compass",
+        "description_basic": "A broken compass that spins wildly",
+        "description_intermediate": "A functional compass that points to the nearest shore",
+        "description_advanced": "A magical compass that leads to hidden treasures"
+      },
+      {
+        "roll": 14,
+        "item": "Seaweed Wraps",
+        "description_basic": "A bundle of dried seaweed",
+        "description_intermediate": "A set of wraps that provide minor protection",
+        "description_advanced": "Magical wraps that grant resistance to poison"
+      },
+      {
+        "roll": 15,
+        "item": "Kraken Ink",
+        "description_basic": "A vial of black ink from a kraken",
+        "description_intermediate": "A larger vial that can be used for powerful spells",
+        "description_advanced": "A legendary ink that can create illusions"
+      },
+      {
+        "roll": 16,
+        "item": "Nautical Map",
+        "description_basic": "A simple map of the local waters",
+        "description_intermediate": "A detailed map with notes on sea routes",
+        "description_advanced": "A magical map that reveals hidden underwater locations"
+      },
+      {
+        "roll": 17,
+        "item": "Shell Armor",
+        "description_basic": "A set of armor made from large shells",
+        "description_intermediate": "A reinforced shell armor that provides decent protection",
+        "description_advanced": "A magical shell armor that grants the wearer aquatic abilities"
+      },
+      {
+        "roll": 18,
+        "item": "Siren's Song Flute",
+        "description_basic": "A simple wooden flute that plays a soft tune",
+        "description_intermediate": "A beautifully crafted flute that can charm creatures",
+        "description_advanced": "A magical flute that can cast powerful enchantments"
+      },
+      {
+        "roll": 19,
+        "item": "Leviathan Scale",
+        "description_basic": "A single scale from a large sea creature",
+        "description_intermediate": "A collection of scales that can be used for crafting",
+        "description_advanced": "A legendary scale that grants the wearer immense power"
+      },
+      {
+        "roll": 20,
+        "item": "Heart of the Sea Witch",
+        "description_basic": "A dark, pulsating gem that radiates power",
+        "description_intermediate": "A powerful artifact that can control water",
+        "description_advanced": "The heart of the sea witch, granting immense magical abilities"
+      }
+    ]
+  }
+}

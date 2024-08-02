@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Seraphine the Cult Leader",
+    "appearance": "A tall, imposing woman with long, flowing black hair adorned with seashells, wearing a flowing robe that shimmers like the ocean waves. Her eyes are a deep blue, almost hypnotic, and her skin has a faint, iridescent sheen.",
+    "personality": "Charismatic and manipulative, Seraphine exudes an aura of authority and confidence. She is fiercely devoted to the sea witches and will stop at nothing to protect her cult, often using her charm to sway others to her cause.",
+    "role": "As the leader of the cult, Seraphine is the final confrontation for the players, wielding powerful magic granted by the sea witches."
+  },
+  {
+    "name": "Corwin the Corrupted",
+    "appearance": "A once-handsome man now twisted by dark magic, with pale skin, sunken eyes, and a tattered robe that clings to his emaciated frame. His fingers are elongated and claw-like, and he carries a staff topped with a glowing sea crystal.",
+    "personality": "Tormented and conflicted, Corwin struggles between his lingering humanity and the dark influence of the sea witches. He is prone to fits of rage but can show moments of clarity and remorse.",
+    "role": "Corwin serves as a mini-boss within the dungeon, acting as a guardian to the cult's inner sanctum."
+  },
+  {
+    "name": "Acolyte Mira",
+    "appearance": "A young woman with wild, tangled hair and a seaweed necklace, dressed in a simple robe stained with saltwater and dirt. Her eyes are wide with fanaticism, and she carries a dagger that glints ominously.",
+    "personality": "Eager and zealous, Mira is deeply devoted to the cult and believes wholeheartedly in the sea witches' power.",
+    "role": "As a low-ranking member of the cult, Mira serves as a minor antagonist who can either hinder the players with traps or provide them with information if they engage her in conversation."
+  }
+]

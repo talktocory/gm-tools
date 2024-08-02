@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Captain Elara Stormwatch",
+    "appearance": "A tall, imposing figure with long, flowing hair that seems to ripple like the ocean waves. She wears dark robes adorned with sea motifs and wields a trident crackling with arcane energy.",
+    "personality": "Charismatic yet ruthless, she commands respect and fear among her followers. Elara is cunning and manipulative, always seeking to expand her power.",
+    "role": "Cult leader"
+  },
+  {
+    "name": "Finn the Lost",
+    "appearance": "A disheveled young man with haunted eyes and a gaunt face, wearing tattered clothing that once belonged to a sailor. His demeanor is conflicted, reflecting his internal struggle.",
+    "personality": "Torn between loyalty to the cult and his past self, Finn is filled with regret and confusion. He seeks redemption but feels trapped by his choices.",
+    "role": "Corrupted brother"
+  },
+  {
+    "name": "Talia the Acolyte",
+    "appearance": "A young woman with a fervent expression, dressed in simple robes that mark her as a cultist. Her hair is tied back, and she carries a small dagger for rituals.",
+    "personality": "Devout and eager to prove herself, Talia is zealous in her beliefs and willing to do whatever it takes to gain favor with her superiors.",
+    "role": "Devout cult member"
+  }
+]

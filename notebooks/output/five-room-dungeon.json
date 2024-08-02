@@ -1,0 +1,42 @@
+{
+  "title": "The Abandoned Lighthouse of Hammersend",
+  "introduction": "In the town of Hammersend, the peaceful facade hides a dark threat as a powerful cult worshipping ancient sea witches has taken control. The adventurers must infiltrate the cult's lair, an abandoned lighthouse, to rescue a corrupted brother and prevent the cult from summoning a devastating tentacle monster.",
+  "plot_twist": "Upon victory, the players discover a hidden tome revealing the cult's larger plans to summon multiple sea monsters. The freed brother shares visions of a greater conspiracy involving other towns.",
+  "rooms": [
+    {
+      "room_number": 1,
+      "title": "Entrance and Guardian",
+      "objective": "Defeat the acolytes or sneak past them using Dexterity (Stealth) checks against Wisdom (Perception).",
+      "design": "The entrance looms before you, a heavy door adorned with strange symbols that pulse faintly.",
+      "description": "As you approach the crumbling structure of the abandoned lighthouse, the salty breeze carries with it a sense of foreboding. Inside, two acolytes perform a ritual to strengthen their dark connection, guarding the entrance. You can choose to confront them or attempt to sneak by."
+    },
+    {
+      "room_number": 2,
+      "title": "Puzzle or Roleplaying Challenge",
+      "objective": "Solve the riddle to obtain the conch shell.",
+      "design": "A large chamber with glowing runes illuminating a circular pedestal that holds a conch shell.",
+      "description": "Upon entering a large chamber, glowing runes illuminate a circular pedestal that holds a conch shell. A riddle inscribed on the wall reads, 'I am not alive, but I can grow; I don’t have lungs, but I need air; I don’t have a mouth, but water kills me.' Solve the riddle (Answer: Fire) to unlock the shell without triggering a backlash that causes 1d6 psychic damage."
+    },
+    {
+      "room_number": 3,
+      "title": "Trick or Setback",
+      "objective": "Identify and defeat the false duplicates. Discover a hidden compartment with a healing potion after defeating them.",
+      "design": "A dimly lit room lined with mirrors reflecting distorted images.",
+      "description": "As the party continues, a dimly lit room lined with mirrors reflects distorted images of themselves. The mirrors are enchanted, creating illusory duplicates that attack the party. The duplicates mimic the players' abilities but have only 1 hit point, adding a layer of strategy to the combat."
+    },
+    {
+      "room_number": 4,
+      "title": "Climax, Big Battle, or Conflict",
+      "objective": "Decide whether to free the brother or focus on defeating the cultists.",
+      "design": "The final chamber reveals a large summoning circle surrounded by chanting cultists.",
+      "description": "The final chamber reveals a large summoning circle surrounded by chanting cultists. The player's brother is bound to an altar, while the high cleric prepares to summon the tentacle monster. The players must fight acolytes and the high cleric, who employs spells like Hold Person and Spirit Guardians."
+    },
+    {
+      "room_number": 5,
+      "title": "Reward, Revelation, Plot Twist",
+      "objective": "Gain loot, learn about the cult's plans, and establish future hooks for the campaign.",
+      "design": "A hidden area where the players discover a tome and magical trinkets.",
+      "description": "Upon victory, the players discover a hidden tome revealing the cult's larger plans to summon multiple sea monsters. The freed brother shares visions of a greater conspiracy involving other towns. Players receive magical trinkets and a map leading to the next cult location, setting the stage for a follow-up adventure."
+    }
+  ]
+}

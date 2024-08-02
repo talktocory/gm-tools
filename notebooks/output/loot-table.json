@@ -1,0 +1,77 @@
+{
+  "rolltable": {
+    "description": "Loot table for the Abandoned Lighthouse of Hammersend.",
+    "entries": [
+      {
+        "roll": 1,
+        "item": "Sea Witch's Talisman",
+        "description_basic": "A simple seashell pendant with no magical properties.",
+        "description_intermediate": "A carved talisman that grants +1 to saving throws against water-based spells.",
+        "description_advanced": "A powerful talisman that allows the wearer to breathe underwater for 1 hour once per day."
+      },
+      {
+        "roll": 2,
+        "item": "Lantern of the Deep",
+        "description_basic": "A basic oil lantern that flickers in the wind.",
+        "description_intermediate": "A sturdy lantern that illuminates a 30-foot radius and reveals hidden paths.",
+        "description_advanced": "A magical lantern that casts daylight and reveals invisible creatures within its light."
+      },
+      {
+        "roll": 3,
+        "item": "Coral Dagger",
+        "description_basic": "A dull dagger made from coral, easily breakable.",
+        "description_intermediate": "A well-crafted dagger that deals an extra 1d4 damage to aquatic creatures.",
+        "description_advanced": "A magical dagger that returns to the wielder's hand after being thrown and deals an extra 1d6 damage to aquatic creatures."
+      },
+      {
+        "roll": 4,
+        "item": "Acolyte's Robes",
+        "description_basic": "Tattered robes with no special features.",
+        "description_intermediate": "Robes that provide +1 to AC and resistance to cold damage.",
+        "description_advanced": "Enchanted robes that grant advantage on Charisma checks when interacting with sea creatures."
+      },
+      {
+        "roll": 5,
+        "item": "Potion of Tidal Strength",
+        "description_basic": "A basic potion that tastes like saltwater.",
+        "description_intermediate": "A potion that grants +2 to Strength for 1 hour.",
+        "description_advanced": "A potion that grants the effects of the spell 'Enlarge' for 1 hour."
+      },
+      {
+        "roll": 6,
+        "item": "Seafoam Cloak",
+        "description_basic": "A simple cloak that smells of the ocean.",
+        "description_intermediate": "A cloak that provides resistance to cold damage and advantage on stealth checks in water.",
+        "description_advanced": "A magical cloak that allows the wearer to teleport up to 60 feet to a body of water once per day."
+      },
+      {
+        "roll": 7,
+        "item": "Trident of the Depths",
+        "description_basic": "A rusty trident with no magical properties.",
+        "description_intermediate": "A trident that deals an extra 1d6 damage to creatures in water.",
+        "description_advanced": "A magical trident that can summon a wave to knock back enemies once per day."
+      },
+      {
+        "roll": 8,
+        "item": "Shell of Echoes",
+        "description_basic": "A plain conch shell that produces no sound.",
+        "description_intermediate": "A shell that can be blown to create a sound that distracts enemies (DC 12 Wisdom save).",
+        "description_advanced": "A magical shell that can cast 'Thunderwave' once per day."
+      },
+      {
+        "roll": 9,
+        "item": "Cultist's Grimoire",
+        "description_basic": "A worn book with illegible text.",
+        "description_intermediate": "A grimoire containing basic spells related to water and sea creatures.",
+        "description_advanced": "A powerful tome that grants the ability to cast 'Control Water' once per day."
+      },
+      {
+        "roll": 10,
+        "item": "Kraken Ink",
+        "description_basic": "A vial of black ink with no special properties.",
+        "description_intermediate": "A vial of ink that can be used to create magical scrolls.",
+        "description_advanced": "A magical ink that allows the user to write spells that can be cast as rituals."
+      }
+    ]
+  }
+}
