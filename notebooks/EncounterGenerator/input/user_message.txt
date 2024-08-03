@@ -1,7 +1,7 @@
-Please generate a location based on the following information:
-* The town of Hammersend is a port town on the coast of a sub-tropical island
-* A secretive cult of Sea Witch worshippers is at work amassing power in the town.
-* The town has both public and private docs.
-* Many of the establishments in the town are under control of the secretive cult.
-* One of the party members, Lancelot, is related to the duke of the region, Charles.
-* Charles has usurped the dukedom from his father Bruce and is working in league with the cultists.
+Please generate an encounter based on the following information:
+* A conclave of sea witch worshipping cultists is performing a ritual to summon a kraken
+* The conclave is operating out of an abandoned lighthouse that they've repurposed as their evil lair
+* The party concists of five, level 3 players
+* The cultists have brokered a deal with the local leader, Duke Charles
+* Duke Charles is the brother of one of the party members, Lancelot
+* Duke Charles deposed his father to usurp the duchy
