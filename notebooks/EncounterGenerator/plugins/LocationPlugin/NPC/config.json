@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "description": "Generates a list of Non-Player Characters (NPCs) that can be used in a tabletop roleplaying game (TTRPG).",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 16384,
+      "temperature": 2.0,
+      "top_p": 0.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    }
+  },
+  "input_variables": [
+    {
+      "name": "game_system",
+      "description": "The TTRPG game system for which the loot rolltable will be designed.",
+      "default": "Dungeons and Dragons 5th Edition"
+    },
+    {
+      "name": "input_context",
+      "description": "Encounter details to consider.",
+      "default": ""
+    }
+  ]
+}

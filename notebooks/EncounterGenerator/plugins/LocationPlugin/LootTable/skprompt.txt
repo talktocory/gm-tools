@@ -1,0 +1,22 @@
+# Task Description
+
+Given the input context described between the <input_context> and </input_context> tags,
+please create a loot rolltable for an encounter or location. 
+This loot table will provide a list of items that can be found in a dungeon or other location.
+
+Some tips to consider:
+* The items on the rolltable should relate to the dungeon and be a mix of mundane and magic items.  
+* Format the results in a table with these columns:
+  * D20 Roll: the D20 roll used to determine which item has been found
+  * Item Name: The name of the item.
+  * Low Value: Description of a low value version of the item.
+  * Medium Value: Description of a medium value version of the item.
+  * High Value: Description of a high value version of the item.
+
+Please generate a loot table suitable for a {{$game_system}} tabletop roleplaying game based on the following input context:
+
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:

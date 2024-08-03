@@ -1,0 +1,47 @@
+# Task Description
+
+Designing an encounter for a tabletop role-playing game (TTRPG) involves several considerations to ensure it's engaging, challenging, and fun for the players. Here are some key elements to consider:
+
+1. **Purpose and Context**:
+   - **Narrative Role**: Determine how the encounter fits into the overall story. Is it a major plot point, a side quest, or a random encounter?
+   - **Goals**: Clarify what the players are supposed to accomplish. Is it combat, negotiation, puzzle-solving, or exploration?
+
+2. **Balance and Difficulty**:
+   - **Challenge Level**: Ensure the encounter is neither too easy nor too hard, considering the party's level, abilities, and resources.
+   - **Diversity**: Include a mix of enemy types, terrain features, and tactical challenges to keep things interesting.
+
+3. **Environment and Setting**:
+   - **Terrain**: Use the environment to add complexity, such as difficult terrain, cover, traps, or environmental hazards.
+   - **Ambiance**: Set the mood with descriptions of the setting, weather, and other sensory details.
+
+4. **NPCs and Monsters**:
+   - **Variety**: Include a mix of enemies or characters with different abilities and roles (e.g., frontline fighters, spellcasters, support).
+   - **Motivations**: Consider the motivations and personalities of NPCs to make interactions more dynamic.
+
+5. **Player Agency**:
+   - **Choices**: Provide opportunities for players to make meaningful decisions that affect the outcome of the encounter.
+   - **Multiple Solutions**: Allow for different approaches to resolving the encounter, whether through combat, diplomacy, or clever tactics.
+
+6. **Pacing and Flow**:
+   - **Rhythm**: Keep the encounter dynamic, balancing moments of tension and action with opportunities for players to regroup and strategize.
+   - **Time Management**: Be mindful of the encounter's length to maintain player engagement.
+
+7. **Rewards and Consequences**:
+   - **Loot and Experience**: Consider what rewards the players will earn, whether it's treasure, experience points, or narrative advantages.
+   - **Impact**: Think about how the encounter's outcome will affect the story and the world.
+
+8. **Player Abilities and Interests**:
+   - **Customization**: Tailor the encounter to the party’s strengths and weaknesses, as well as the players' preferences and play styles.
+   - **Spotlight**: Provide opportunities for different characters to shine, utilizing their unique skills and backgrounds.
+
+By carefully considering these elements, you can create encounters that are memorable, challenging, and integral to the overall TTRPG experience.
+
+# Task
+
+Please generate an encounter suitable for a {{$game_system}} tabletop roleplaying game based on the following input context:
+
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:

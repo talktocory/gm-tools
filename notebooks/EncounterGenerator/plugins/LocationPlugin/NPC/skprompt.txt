@@ -1,0 +1,24 @@
+# Task Description
+
+Given the input context described between the <input_context> and </input_context> tags,
+create at least three NPCS (allies, foes, and monsters) for an encounter or dungeon.
+This will provide a variety of characters for players to interact with during their adventure.
+
+## Considerations
+When creating NPCs for an encounter or dungeon, consider the following:
+* Diverse Roles: Include NPCs with different functions and motivations.
+* Memorable Traits: Give each NPC distinct characteristics to make them memorable.
+* Relevance to the Story: Ensure that each NPC serves a purpose in the encounter or dungeon.
+* Interaction Potential: Design NPCs that can engage with players through dialogue, combat, or other interactions.
+* Please use the  "Three Line NPC" format for each NPC.  This format includes the following:
+  * **Name**: The character's name or title.
+  * **Appearance**: A brief description of the character's physical appearance and notable features.
+  * **Personality**: A quick overview of the character's demeanor, attitude, and behavioral traits.
+  * **Role/Purpose**: The character's function within the story or game, including any relevant background information or motivation.
+
+# Task
+<input_context>
+{{$input_context}}
+</input_context>
+
+Response:
