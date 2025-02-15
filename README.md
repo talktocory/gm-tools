@@ -14,8 +14,8 @@ To set up a development environment in Visual Studio Code with .NET 8 and Polygl
 ### Step 1: Install Visual Studio Code
 - Download and install Visual Studio Code (VS Code) from the [official website](https://code.visualstudio.com/).
 
-### Step 2: Install .NET 8 SDK
-- Download and install the .NET 8 SDK from the [.NET official website](https://dotnet.microsoft.com/download/dotnet/8.0).
+### Step 2: Install .NET 9 SDK
+- Download and install the .NET 9 SDK from the [.NET official website](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
 - After installation, open a terminal or command prompt and run `dotnet --version` to verify the installation.
 
 ### Step 3: Install the C# Extension for VS Code
