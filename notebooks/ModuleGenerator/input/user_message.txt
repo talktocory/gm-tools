@@ -1,54 +1,90 @@
-## **Adventure Module Planning Guide**  
+## **Adventure Module Questionnaire**  
 
 Hello, GM! To create an adventure module tailored to your vision, please answer the following questions 
 **with as much detail as you can**. Don’t worry if you don’t have all the answers—just provide what comes to mind.
 
 ### **1. What is the core hook or theme of this adventure that makes it unique?**  
-- Describe the **main premise** in a single sentence (e.g., "The players must infiltrate a haunted airship trapped in a time loop").  
-- What **themes** do you want to explore? (Horror, intrigue, adventure, comedy, etc.)  
-- What **genre inspirations** (books, movies, other games) influence this adventure?  
+Q. Describe the **main premise** in a single sentence (e.g., "The players must infiltrate a haunted airship trapped in a time loop").  
+A. The players must stop the proliferation of a deadly drug by infiltrating a local crime ring and dismantling the drug distribution network from the inside.
+Q. What **themes** do you want to explore? (Horror, intrigue, adventure, comedy, etc.)  
+A. Intrigue, adventure, comedy, action, crime, subterfuge, moral dilemmas
+Q. What **genre inspirations** (books, movies, other games) influence this adventure?  
+A. Breaking Bad, The Departed, The Lies of Locke Lamora
 
 ### **2. What level range and playstyle (combat, roleplay, exploration) is it designed for?**  
-- What level should the players be when they start and finish the adventure?  
-- Should the module focus more on **combat-heavy, roleplay-driven, puzzle-focused, or sandbox-style** gameplay?  
-- Is this meant to be a **one-shot, short arc (3-5 sessions), or a full campaign arc**?  
+Q. What level should the players be when they start and finish the adventure?  
+A. The adventure module should be geared towards Tier 1 players. Players should be level two or three when they start the adventure and gain enough experience to level up after its conclusion.
+Q. Should the module focus more on **combat-heavy, roleplay-driven, puzzle-focused, or sandbox-style** gameplay?  
+A. This should be a sandbox-style adventure with an intriguing story arc that compels players to engage. Players prefer interacting with NPCs and coming up with grifts and schemes.
+Q. Is this meant to be a **one-shot, short arc (3-5 sessions), or a full campaign arc**?  
+A. This should be a short arc adventure of 3-5 sessions.
 
 ### **3. Where does the adventure take place, and what are its key locations?**  
-- What is the **primary setting**? (City, dungeon, wilderness, ocean, another plane, etc.)  
-- What are the **most important locations**? Describe at least 3 key places the players will visit.  
-- Are there any **special environmental elements**? (Underwater exploration, dreamscape, volcanic region, etc.)  
+Q. What is the **primary setting**? (City, dungeon, wilderness, ocean, another plane, etc.)  
+A. Players are currently in the small town of Mistmoor where they have made allegiances to Captain Gwen Stone of the local constabulary. The adventure should take them to the larger town of Ott which is a multi-day journey from Mistmoor.
+Q. What are the **most important locations**? Describe at least 3 key places the players will visit.  
+A. 1. Grimbly's Speakeasy - the HQ of the Silver Serpents crime ring, 2. The Cache - A secluded structure where the Silver Serpents warehouse their illicit goods, 3. Ulstead's Manor - home of Magistrate Darius Ulstead, the adventure's main villain.
+Q. Are there any **special environmental elements**? (Underwater exploration, dreamscape, volcanic region, etc.)  
+A. This adventure module is meant to fit easily into most campaign settings. Specific environmental factors should be limited. Having said that, there is a strong necromantic theme to this adventure that should be reflected when setting scenes and developing encounters.
 
 ### **4. What is the main conflict, and who are the major factions or power players?**  
-- What **event, mystery, or crisis** kickstarts the adventure?  
-- Are there any **factions, guilds, or organizations** involved? What are their goals?  
-- How do these groups **interact with each other and with the players**?  
+Q. What **event, mystery, or crisis** kickstarts the adventure?  
+A. The players are returning from dispatching a dark entity that was threatening the people of Mistmoor. Captain Gwen Stone is waiting for them with a request that they help her undermine the Silver Serpent's expanding drug trade.
+Q. Are there any **factions, guilds, or organizations** involved? What are their goals?  
+A. 
+The Mistmoor Constabluary - currently captained by Captain Gwen Stone, this constabulary is underfunded and ill-equipped to handle anything but petty crimes.
+The Silver Serpents - the players had dispatched the previous leader, Felix Grimbly, and will now find that Felix's henchman, Garlix, is now in command. There goal is to gain wealth through the sale of the new drug.
+The Magisterium - a secret society of necromancers that aim to develop an army of drug-addicted townfolk to do their bidding and help them control the region.
+Q. How do these groups **interact with each other and with the players**?  
+A.
+The Mistmoor Constabluary - Players have had multiple dealings with the constabulary. Captain Stone has provided the players with a number of quests.
+The Silver Serpents - Players have had multiple dealings with the Silver Serpents. Most recently, the players dispatched the leader (Felix Grimbly) and arrested his second-in-command (Marcus Blackthorn). Garlix fled the scene when his boss, Marcus Blackthorn, was captured by the party.
+The Magisterium - Garlix, the leader of the Silver Serpents, has been given the recipe for the new drug by Magistrate Darius Ulstead under the condition that the Silver Serpents get the drug into product and distribution as soon as possible. Players are unaware of the Magisterium at the start of the adventure.
 
 ### **5. Who is the primary antagonist, and what are their goals and motivations?**  
-- Who or what is the **main villain or opposing force** in this adventure?  
-- What is their **end goal** and how do they plan to achieve it?  
-- How will the villain **react to player actions**? Are they direct, manipulative, or hidden?  
+Q. Who or what is the **main villain or opposing force** in this adventure?  
+A. Magistrate Darius Ulstead is the primary villain of this adventure. Garlix, leader of the Silver Serpents, is unaware that he's being used by Magistrate Ulstead to further his own goals.
+Q. What is their **end goal** and how do they plan to achieve it?  
+A. Magistrate Ulstead, and his Magisterium compatriots, desire to rule the region. They're plan: to get the local population addicted to a new drug that will corrupt their bodies and soften their minds to Ulstead's will.
+Q. How will the villain **react to player actions**? Are they direct, manipulative, or hidden?  
+A. Magistrate Ulstead is currently unaware of the players. When he finds out they are meddling in his affairs, he will spare no expense to get rid of them.
 
 ### **6. What types of encounters (combat, puzzles, social, exploration) will challenge the players?**  
-- What **types of combat encounters** will there be? (Swarm fights, boss battles, siege warfare, naval combat, etc.)  
-- Will there be **puzzles, riddles, or skill-based challenges**? If so, what kind?  
-- How will players interact with **NPCs and social intrigue** in the adventure?  
+Q. What **types of combat encounters** will there be? (Swarm fights, boss battles, siege warfare, naval combat, etc.)  
+A. I expect that their will be ambushes, contests of skill, mob fights with the undead, and boss battles with Magistrate Ulstead and Garlix.
+Q. Will there be **puzzles, riddles, or skill-based challenges**? If so, what kind?  
+A. Intrigue is meant to be the main theme of this adventure module. Skill-based challenges will likely be related to deception, sleight-of-hand, investigation, and survival.
+Q. How will players interact with **NPCs and social intrigue** in the adventure?  
+A. Players are expected to play the role of double-agents in this adventure. Social intrigue should be high, and information should be suspect.
 
 ### **7. What meaningful choices and consequences will impact the world and the players' journey?**  
-- What **major player decisions** will change the outcome of the adventure?  
-- Are there **multiple ways to complete objectives** (diplomacy, stealth, brute force)?  
-- How do player actions **affect the world or NPCs** after the adventure?  
+Q. What **major player decisions** will change the outcome of the adventure?  
+A. Players may choose to: support Captain Stone and help her rid the region of the terrible drug or join the Silver Serpents (or their rivals the Crimson Fangs) to control the drug trade for themselves.
+Q. Are there **multiple ways to complete objectives** (diplomacy, stealth, brute force)?  
+A. As an intrigue based adventure, players may choose to align with any of the NPCs and take the story in any direction they wish.
+Q. How do player actions **affect the world or NPCs** after the adventure?  
+A. The players currently have a good reputation in the town of Mistmoor. Their choices in this adventure will either increase or decrease this reputation. It is also expected that the players will have some noteriety in the greater region at the conclusion of the adventure.
 
 ### **8. What kind of rewards (magic items, gold, influence, lore) will the players gain?**  
-- What **treasure, unique items, or boons** will they receive?  
-- Are there any **custom magic items, relics, or powerful artifacts** in the story?  
-- Will there be **reputation rewards** with factions, NPC allies, or political power?  
+Q. What **treasure, unique items, or boons** will they receive?  
+A. It is expected that the party will earn coin and reputation as reward for their endeavours.
+Q. Are there any **custom magic items, relics, or powerful artifacts** in the story?  
+A. Magistrate Ulstead has a necromantic orb that he uses to infuse the drug with necromantic energies.
+Q. Will there be **reputation rewards** with factions, NPC allies, or political power?  
+A. Yes, there will be reputation rewards with the factions and NPC allies like Captain Stone. If the players choose to align themselves with (or take over) the Silver Serpents then their reputation in the underworld will be advanced.
 
 ### **9. How does this adventure fit into a larger campaign or work as a standalone experience?**  
-- Is this adventure **part of an ongoing campaign** or meant to stand alone?  
-- If part of a campaign, how does it **tie into the larger story**?  
-- If standalone, can it **easily be dropped into different settings**, or does it require specific lore?  
+Q. Is this adventure **part of an ongoing campaign** or meant to stand alone?  
+A. The players have already interacted with the Silver Serpents and the Mistmoor Constabluary. This adventure is meant to build on those relationships.
+Q. If part of a campaign, how does it **tie into the larger story**?  
+A. The adventure module is meant to be leveraged by GMs in their own campaigns so no over-arching campaign story should be aluded to.
+Q. If standalone, can it **easily be dropped into different settings**, or does it require specific lore?  
+A. This module should be created in a way that makes it easy to drop into any campaign. No specific lore is required.
 
 ### **10. What tone, mood, and themes do you want to emphasize throughout the adventure?**  
-- Should this adventure feel **dark and gritty, lighthearted and comedic, or something in between**?  
-- Are there **specific themes** you want to emphasize? (Betrayal, survival, redemption, exploration, etc.)  
-- What **storytelling elements** should be highlighted? (Twists, moral dilemmas, ancient prophecies, etc.)  
+Q. Should this adventure feel **dark and gritty, lighthearted and comedic, or something in between**?  
+A. The adventure should be dark, gritty and full of intrigue.
+Q. Are there **specific themes** you want to emphasize? (Betrayal, survival, redemption, exploration, etc.)  
+A. Mainly I want this adventure module to pose moral dilemmas that the players must wrestle with.
+Q. What **storytelling elements** should be highlighted? (Twists, moral dilemmas, ancient prophecies, etc.)  
+A. Please emphasize twists, moral dilemmas, intrigue, and adventure.
